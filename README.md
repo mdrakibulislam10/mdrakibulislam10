@@ -5,8 +5,8 @@
 <p align="left">
 <a href="https://dev.to/mdrakibulislam10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="md. rakibul islam" height="30" width="40" /></a>
 <a href="https://twitter.com/Rokib74664686" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="md. rakibul islam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md. rakibul islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. rakibul islam" height="30" width="40" /></a>
-<a href="https://fb.com/md. rakibul islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md. rakibul islam" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-rakibul-islam-a7a668283/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. rakibul islam" height="30" width="40" /></a>
+<a href="[https://fb.com/md. rakibul islam](https://web.facebook.com/programmer.rokib)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md. rakibul islam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
